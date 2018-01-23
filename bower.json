@@ -1,0 +1,17 @@
+{
+  "name": "demo-ckeditor",
+  "version": "1.0.1",
+  "authors": [
+    "Trung Quan <thanhkhuatdac@gmail.com>"
+  ],
+  "description": "Framgia standard demo ckeditor",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/thanhkhuatdac/ckeditor.git",
+  "ignore": [
+    "README.md"
+  ]
+}
